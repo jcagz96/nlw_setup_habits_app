@@ -1,6 +1,6 @@
 <br/>
 
-## <a name='tecnologias'></a> Technologies
+## <a name='technologies'></a> Technologies
 
 
 
@@ -40,9 +40,21 @@ $ npm run dev
 # or
 $ yarn dev
 
+# generate ERD diagram
+$ npx prisma generate
+
+# run migrations and populate table with data from file seed.ts
+npx prisma migrate dev 
+
 # Access server endpoint
 http://localhost:3333
 ```
+
+<!-- vscode-markdown-toc -->
+
+[API reference](#apireference)
+
+<!-- vscode-markdown-toc -->
 
 ## Running Front-End (web)
 
@@ -85,7 +97,7 @@ $ yarn start
 
 <br/>
 
-## API REFERENCE
+## <a name='apireference'></a> API REFERENCE
 
 **Get habits summary**
 
