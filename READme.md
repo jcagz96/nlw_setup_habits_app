@@ -1,8 +1,14 @@
 <br/>
+<h1 align="center">
+    <img src="https://github.com/jcagz96/nlw_setup_habits_app/blob/main/mockups/all_mobile.png?raw=true" width="100%">
+    <br/><br/>
+
+  <img src="https://github.com/jcagz96/nlw_setup_habits_app/blob/main/mockups/all_web.png?raw=true" width="100%">
+</h1>
+
+<br/>
 
 ## <a name='technologies'></a> Technologies
-
-
 
 - [ReactJS](https://reactjs.org/)
 - [Node.js](https://nodejs.org/en/)
